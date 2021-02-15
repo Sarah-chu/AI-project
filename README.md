@@ -3,6 +3,8 @@
 ## Objective
 Credit card is a commonly used transaction method in modern society and one of the main business of banks. For banks, it helps the bank to generate interest revenue but at the same time, it raise the liquidity risk and credit risk to the bank. In order to control the cash flow and risk, detecting the customers with default payment next month could play an important roles of estimating the potential **cash flow and risk management**.
 
+**For quick summary**, please refer to our [Powerpoint](https://drive.google.com/file/d/1GUbzx7Nd61jiQ8lFu37YPtEOmOMXg0r4/view?usp=sharing).
+
 ## Dataset
 This dataset contains information on default payments, demographic factors, credit data, history of payment, and bill statements of credit card clients in Taiwan from April 2005 to September 2005.
 
